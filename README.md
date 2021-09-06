@@ -1,1 +1,0 @@
-# kegel_swiftui
